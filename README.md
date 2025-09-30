@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, bem-vindo ao meu GitHub!<br><br>Sou apaixonado por tecnologia e estou sempre em busca de aprender e evoluir no desenvolvimento de software.</h1>
+<h2 align="center">👋 Olá, bem-vindo ao meu GitHub!<br><br>Sou apaixonado por tecnologia e estou sempre em busca de aprender e evoluir no desenvolvimento de software.</h2>
 
 ###
 
